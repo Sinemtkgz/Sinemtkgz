@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sinem.tkgzz@gmail.com
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Sinemtkgz&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Sinemtkgz&show_icons=true&theme=radical) 
